@@ -4,10 +4,11 @@
 .idea/modules.xml
 .idea/portfolio.iml
 .idea/scopes
-.package-lock.json
+package-lock.json
 vendor
 .vscode
 node_modules
 idea
 .env
 !.gitignore
+composer.lock
