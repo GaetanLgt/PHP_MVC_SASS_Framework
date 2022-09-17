@@ -20,6 +20,7 @@ npm run watch
 ````
 - third terminal
 ````
+cd Public
 php -S localhost:7000
 ````
 
