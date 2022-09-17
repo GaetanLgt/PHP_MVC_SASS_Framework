@@ -1,9 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea/.gitignore
-.idea/misc.xml
-.idea/modules.xml
-.idea/portfolio.iml
-.idea/scopes
+idea/.gitignore
+idea/misc.xml
+idea/modules.xml
+idea/portfolio.iml
+idea/scopes
 package-lock.json
 vendor
 .vscode
