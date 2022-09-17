@@ -39,23 +39,5 @@ In your page you just must have :
 reload @save 
 -----
 
-Folder Structure
-==
-
-
-    |- /assets
-    |   |- /img
-    |   |- /js
-    |   |- /sass
-    |   |- bundle.js
-    |   |- index.js
-    |
-    |- /node_modules
-    |
-    |- index.php/html
-    |
-    |- webpack.config.js
-    |- package.json
-
 
 Enjoy your development with hot-reload and sass-complier :) 
