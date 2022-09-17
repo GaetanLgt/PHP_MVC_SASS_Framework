@@ -1,4 +1,5 @@
 # PHP_MVC_SASS_Framework
+# 
 ## First step : download
 
 - download folder & extract
@@ -6,7 +7,10 @@
 
 ```` 
 npm i
+composer i
 ````
+
+Create data Base and configure .env
 
 ## Second step : run server
 
