@@ -5,9 +5,9 @@
 .idea/portfolio.iml
 .idea/scopes
 .package-lock.json
-./vendor
-./vscode/*
+vendor
+.vscode
 node_modules
-./idea
+idea
 .env
-
+!.gitignore
