@@ -2,8 +2,6 @@
 namespace App\Core;
 
 use App\Core\Db\Database;
-use App\Core\Db\DbModel;
-use App\Models\User;
 
 /**
  * Class Application

@@ -1,5 +1,8 @@
 <?php
-/** @var $this \App\Core\View */
+/** @var $this View */
+
+use App\Core\View;
+
 $this->title = 'Home';
 ?>
 <h1>Hello World !</h1>
