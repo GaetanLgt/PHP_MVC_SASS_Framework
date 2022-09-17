@@ -12,6 +12,10 @@ composer i
 
 Create data Base and configure .env
 
+````
+php migrations.php
+````
+
 ## Second step : run server
 
 - first terminal
